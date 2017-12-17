@@ -49,5 +49,14 @@ title parameter sets the text to be displayed on the contact button icon paramet
       <description>WidgetCo is the world leader in widget production.</description>
     </item>
     
+    <item>
+      <title>mirrorball</title>
+      <link>https://no-sinker.github.io/mirrorball/mirrorball/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>https://no-sinker.github.io/mirrorball/mirrorball/</guid>
+      <description>This is mirrorball.</description>
+    </item>
+    
   </channel>
 </rss>
