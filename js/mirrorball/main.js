@@ -22,7 +22,9 @@ $(function() {
     var renderer = new THREE.WebGLRenderer( {antialias: true} );
     canvas = document.getElementById('mirrorball');
     // レンダラーが描画するキャンバスサイズの設定
-    renderer.setSize( canvas.clientWidth, canvas.clientHeight);
+    // renderer.setSize( canvas.clientWidth, canvas.clientHeight);
+    var ratio = canvas.clientWidth / window.innerWidth / 1.7;
+    renderer.setSize( window.innerWidth * ratio, window.innerHeight * ratio);
 
     // キャンバスをDOMツリーに追加
     canvas.appendChild( renderer.domElement );
