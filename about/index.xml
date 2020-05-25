@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on no-sinker</title>
-    <link>https://www.no-sinker.co.jp/about/</link>
-    <description>Recent content in Abouts on no-sinker</description>
+    <title>会社概要 on no-sinker</title>
+    <link>/about/</link>
+    <description>Recent content in 会社概要 on no-sinker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 09 Jan 2020 13:42:35 +0200</lastBuildDate>
     
-	<atom:link href="https://www.no-sinker.co.jp/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Us</title>
-      <link>https://www.no-sinker.co.jp/about/about/</link>
-      <pubDate>Thu, 09 Jan 2020 13:42:35 +0200</pubDate>
-      
-      <guid>https://www.no-sinker.co.jp/about/about/</guid>
-      <description>         社名 株式会社ノーシンカー   本社 〒666-0145 兵庫県川西市けやき坂4-18-5 (地図を確認) tel:072-741-2923 fax:072-743-2199   設立 2008年12月24日   代表取締役 猪子 香   従業員 11名   資本金 300万円   取引銀行 りそな銀行 川西支店三井住友銀行 川西支店ゆうちょ銀行   事業内容 システム提案システム開発運用サービスシステム開発支援   URL https://www.no-sinker.co.jp   e-mail info@no-sinker.co.jp    </description>
-    </item>
     
   </channel>
 </rss>

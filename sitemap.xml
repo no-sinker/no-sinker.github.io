@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.no-sinker.co.jp/about/about/</loc>
+    <loc>/</loc>
     <lastmod>2020-01-09T13:42:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.no-sinker.co.jp/about/</loc>
+    <loc>/contact/</loc>
     <lastmod>2020-01-09T13:42:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.no-sinker.co.jp/</loc>
+    <loc>/privacy-policy/</loc>
     <lastmod>2020-01-09T13:42:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.no-sinker.co.jp/categories/</loc>
+    <loc>/business/</loc>
+    <lastmod>2020-01-09T13:42:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.no-sinker.co.jp/tags/</loc>
+    <loc>/about/</loc>
+    <lastmod>2020-01-09T13:42:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
